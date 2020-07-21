@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Karyawan')
+@section('title', 'Guru')
 
 @section('content')
 <div class="content-wrapper">

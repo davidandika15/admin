@@ -147,7 +147,7 @@ class GuruController extends Controller
             ['nama', 'LIKE', '%' . $title . '%'],
         ])->get();
 
-            // mengirim data pegawai ke view index
+            
         return view('index', compact('data'));
     }
 }

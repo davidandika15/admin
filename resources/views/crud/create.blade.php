@@ -8,7 +8,7 @@
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1>Tambah Pegawai</h1>
+            <h1>Tambah Materi</h1>
           </div>
         </div>
       </div><!-- /.container-fluid -->
@@ -28,7 +28,7 @@
                   @csrf
                   <div class="card card-info">
                     <div class="card-header">
-                      <h3 class="card-title">Input Pegawai</h3>
+                      <h3 class="card-title">Input Materi Pelajaran</h3>
                     </div>
                     <!-- <label for="customFile">Custom File</label> -->
 
